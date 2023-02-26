@@ -1,5 +1,6 @@
 # Teste de Repositorio
  > abcdefghijklmnopq
+  Para rodar em sua maquina o projeto , digite:
  ```
- para rodar esse projeto em sua maquina....
+ Node app.js
  ```
